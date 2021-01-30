@@ -1,0 +1,282 @@
+
+<?xml version="1.0"?>
+<sdf version="1.5">
+    <model name="aruco_2_16">
+        <static>true</static>
+        <link name="aruco_2_16_link">
+            
+<visual name="visual_marker_2_52">
+    <pose>0.0 2.088 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_52</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_53">
+    <pose>0.696 2.088 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_53</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_54">
+    <pose>1.392 2.088 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_54</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_55">
+    <pose>2.088 2.088 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_55</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_48">
+    <pose>0.0 1.392 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_48</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_49">
+    <pose>0.696 1.392 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_49</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_50">
+    <pose>1.392 1.392 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_50</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_51">
+    <pose>2.088 1.392 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_51</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_44">
+    <pose>0.0 0.696 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_44</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_45">
+    <pose>0.696 0.696 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_45</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_46">
+    <pose>1.392 0.696 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_46</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_47">
+    <pose>2.088 0.696 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_47</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_40">
+    <pose>0.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_40</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_41">
+    <pose>0.696 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_41</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_42">
+    <pose>1.392 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_42</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_43">
+    <pose>2.088 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.424 0.424 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_shirokaya_1_txt/materials/scripts</uri>
+            <uri>model://aruco_shirokaya_1_txt/materials/textures</uri>
+            <name>aruco/marker_2_43</name>
+        </script>
+    </material>
+</visual>
+
+        </link>
+    </model>
+</sdf>

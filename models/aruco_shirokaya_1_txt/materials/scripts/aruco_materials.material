@@ -1,0 +1,256 @@
+
+material aruco/marker_2_52
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_52.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_53
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_53.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_54
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_54.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_55
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_55.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_48
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_48.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_49
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_49.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_50
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_50.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_51
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_51.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_44
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_44.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_45
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_45.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_46
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_46.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_47
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_47.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_40
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_40.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_41
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_41.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_42
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_42.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material aruco/marker_2_43
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aruco_marker_2_43.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}

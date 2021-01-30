@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<sdf version="1.5">
+    <model name="qr">
+        <static>true</static>
+        <link name="qr_link">
+            <pose>0 0 1e-3 0 0 1.5707963267948966</pose>
+            <visual name="visual_qr">
+                <cast_shadows>false</cast_shadows>
+                <geometry>
+                    <box>
+                        <size>1.0 1.0 1e-3</size>
+                    </box>
+                </geometry>
+                <material>
+                    <script>
+                        <uri>model://qr_hello/materials/scripts</uri>
+                        <uri>model://qr_hello/materials/textures</uri>
+                        <name>qr/hello</name>
+                    </script>
+                </material>
+            </visual>
+        </link>
+    </model>
+</sdf>
