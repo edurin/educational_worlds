@@ -1,4 +1,5 @@
 #!/bin/bash
+#gittest
 git clone https://github.com/edurin/educational_worlds.git
 cd educational_worlds/
 cp -rf models/ /home/clover/.gazebo/
